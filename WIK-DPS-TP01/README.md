@@ -7,7 +7,7 @@
 
 ## Installation/Configuration
 
-- Cloner le projet -> ...
+- Cloner le projet -> https://github.com/R3ddji/CoursDevOps/
 - Dans un terminal configurer la variable d'environnement "PING_LISTEN_PORT" avec le port que vous souhaitez.
 Exemple : ```export PING_LISTEN_PORT=7878```
 
